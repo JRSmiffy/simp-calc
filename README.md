@@ -15,7 +15,7 @@ This is a basic calculator which will take two numbers and perform a selected ca
 An example input:
 <img width="1230" alt="Screenshot 2023-03-24 at 12 22 28" src="https://user-images.githubusercontent.com/26112979/227520170-8ce7c790-8847-4032-a3e4-d8116d901f52.png">
 
-and the result:
+and the result:<br>
 <img width="461" alt="Screenshot 2023-03-24 at 12 22 34" src="https://user-images.githubusercontent.com/26112979/227520188-31c5a5a9-1cb6-4772-bea5-62ad689b9f96.png">
 
 
