@@ -6,3 +6,19 @@ body {
 h1 {
     color: orange;
 }
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.custom-select {
+  position: relative;
+  font-family: Arial;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
