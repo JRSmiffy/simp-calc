@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="css/formative.css">
+		<script src="formative.js"></script>
+	</head>
+	
+	<body>
+
+		<h1>Calculator</h1>
+
+		<form name="calculator" id="calculator"  onsubmit="return(submit());">
+			<label for="firstNumber">First Number:</label><br>
+			<input type="text" id="firstNumber" name="firstNumber"><br>
+
+			<label for="equation">Equation:</label>
+			<select id="equation" name="equation">
+				<option value="plus">Plus</option>
+				<option value="minus">Minus</option>
+				<option value="multiply">Multiply</option>
+				<option value="divide">Divide</option>
+			</select><br>
+
+			<label for="secondNumber">Second Number:</label><br>
+			<input type="text" id="secondNumber" name="secondNumber">
+			
+			<input type="submit" value="Submit">
+		</form>
+
+	</body>
+</html>
