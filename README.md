@@ -45,25 +45,25 @@ With the Kanban board created and the tasks added, I then needed to create a pro
 ### Happy Path Functional Testing 
 Addition:
 Test: <br>
-<img width="561" alt="Screenshot 2023-03-24 at 13 20 10" src="https://user-images.githubusercontent.com/26112979/227532075-6620fe56-bddf-4959-947d-02c5bb3855b2.png">
+<img width="561" alt="Screenshot 2023-03-24 at 13 20 10" src="https://user-images.githubusercontent.com/26112979/227532075-6620fe56-bddf-4959-947d-02c5bb3855b2.png"><br>
 Result: **Success**<br>
 <img width="460" alt="Screenshot 2023-03-24 at 13 20 49" src="https://user-images.githubusercontent.com/26112979/227532189-fddca886-aa2a-4700-a953-692e2883b923.png">
 
 Subtraction:
 Test: <br>
-<img width="669" alt="Screenshot 2023-03-24 at 13 21 37" src="https://user-images.githubusercontent.com/26112979/227532349-f611989a-a9aa-41b4-8c2b-f2aa001dc31f.png">
+<img width="669" alt="Screenshot 2023-03-24 at 13 21 37" src="https://user-images.githubusercontent.com/26112979/227532349-f611989a-a9aa-41b4-8c2b-f2aa001dc31f.png"><br>
 Result: **Success**<br>
 <img width="461" alt="Screenshot 2023-03-24 at 13 21 55" src="https://user-images.githubusercontent.com/26112979/227532425-105f612b-1718-491a-98ef-23980233ee71.png">
 
 Multiplication:
 Test: <br>
-<img width="671" alt="Screenshot 2023-03-24 at 13 22 17" src="https://user-images.githubusercontent.com/26112979/227532482-c55172d3-77b0-4787-aa00-d1490bb4eab7.png">
+<img width="671" alt="Screenshot 2023-03-24 at 13 22 17" src="https://user-images.githubusercontent.com/26112979/227532482-c55172d3-77b0-4787-aa00-d1490bb4eab7.png"><br>
 Result: **Success**<br>
 <img width="460" alt="Screenshot 2023-03-24 at 13 22 27" src="https://user-images.githubusercontent.com/26112979/227532515-db456731-746e-4bff-81c4-85d1b6538a11.png">
 
 Division:
 Test: <br>
-<img width="579" alt="Screenshot 2023-03-24 at 13 23 05" src="https://user-images.githubusercontent.com/26112979/227532670-7c4c4401-f785-4b3f-8228-3d5b8ea35ed6.png">
+<img width="579" alt="Screenshot 2023-03-24 at 13 23 05" src="https://user-images.githubusercontent.com/26112979/227532670-7c4c4401-f785-4b3f-8228-3d5b8ea35ed6.png"><br>
 Result: **Success**<br>
 <img width="462" alt="Screenshot 2023-03-24 at 13 22 50" src="https://user-images.githubusercontent.com/26112979/227532609-c1137b49-4d94-4718-963f-84673667338d.png">
 
