@@ -4,18 +4,18 @@ function submit() {
    var equation = document.calculator.equation.value
       
    if (equation == "plus") {
-      return num1 + num2
+      return alert(num1 + num2);
    }
 
    if (equation == "minus") {
-      return num1 - num2
+      return alert(num1 - num2);
    }
 
    if (equation == "multiply") {
-      return num1 * num2
+      return alert(num1 * num2);
    }
 
    if (equation == "divide") {
-      return num1 / num2
+      return alert(num1 / num2);
    }
 }
