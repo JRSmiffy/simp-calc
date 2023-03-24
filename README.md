@@ -2,7 +2,7 @@
 A very quick calculator applitcation, with no validation, built for the Formative Assignment
 Application can be found [HERE](https://owenflanagan.github.io/software-engineering-formative/index)
 
-#How to use
+# How to use
 This is a basic calculator which will take two numbers and perform a selected calculation.
 * You can enter two different numbers, one in the first field under "First Number" and one in the second field under "Second Number"
 * These should be numbers not letters. So 12 not "twelve".
